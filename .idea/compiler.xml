@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="commacysretailnisum" />
+        <module name="com.macys.retail.nisum" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="commacysretailnisum" target="1.8" />
+    <bytecodeTargetLevel>
+      <module name="com.macys.retail.nisum" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
