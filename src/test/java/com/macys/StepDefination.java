@@ -21,6 +21,8 @@ public class StepDefination {
         System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\new\\chromedriver.exe");
         //System.setProperty("webdriver.ie.driver", "D:\\Cucumber-Jar-Files\\IEDriverServer\\IEDriverServer.exe");
         //driver= new InternetExplorerDriver();
+
+
         driver = new ChromeDriver();
         driver.get("https://www.macys.com");
         driver.manage().timeouts().pageLoadTimeout(5000, TimeUnit.SECONDS);
