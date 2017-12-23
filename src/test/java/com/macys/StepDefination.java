@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 public class StepDefination {
 
     WebDriver driver;
-
+    //inisilizing the webdriver interface 
     @Given("^appplicaiton url and valid user name and password$")
     public void appplicaiton_url_and_valid_user_name_and_password()  {
         System.out.println( "Enter valid Portal and user name and password");
