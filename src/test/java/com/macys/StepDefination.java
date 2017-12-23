@@ -35,7 +35,7 @@ public class StepDefination {
     @When("^Launch the application$")
     public void launch_the_application()  {
         System.out.println("Application Launched successfully");
-       // Assert.assertTrue(driver.getTitle().contains("flipkart"));
+         Assert.assertTrue(driver.getTitle().contains("macys"));
     }
 
     @When("^Enter the valid user name and password$")
