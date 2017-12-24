@@ -11,6 +11,9 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 import java.util.concurrent.TimeUnit;
 
+/**
+ *
+ */
 public class StepDefination {
 
     WebDriver driver;
@@ -21,6 +24,8 @@ public class StepDefination {
         System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\new\\chromedriver.exe");
         //System.setProperty("webdriver.ie.driver", "D:\\Cucumber-Jar-Files\\IEDriverServer\\IEDriverServer.exe");
         //driver= new InternetExplorerDriver();
+        
+        //This is branch Changes 
 
 
         driver = new ChromeDriver();
@@ -33,7 +38,9 @@ public class StepDefination {
     @When("^Launch the application$")
     public void launch_the_application()  {
         System.out.println("Application Launched successfully");
+
         Assert.assertTrue(driver.getTitle().contains("macys"));
+
     }
 
     @When("^Enter the valid user name and password$")
