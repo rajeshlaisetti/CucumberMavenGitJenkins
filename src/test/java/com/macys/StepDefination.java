@@ -7,27 +7,18 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.ie.InternetExplorerDriver;
-
 import java.util.concurrent.TimeUnit;
 
-/**
- *
- */
+
 public class StepDefination {
 
-    WebDriver driver;
 
-
+    public WebDriver driver;
 
     @Given("^appplicaiton url and valid user name and password$")
-    public void appplicaiton_url_and_valid_user_name_and_password()  {
-        System.out.println( "Enter valid Portal and user name and password");
-        System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\new\\chromedriver.exe");
-        //System.setProperty("webdriver.ie.driver", "D:\\Cucumber-Jar-Files\\IEDriverServer\\IEDriverServer.exe");
-        //driver= new InternetExplorerDriver();
-        
-        //This is branch Changes 
+    public void appplicaiton_url_and_valid_user_name_and_password() {
+        System.out.println("Enter valid Portal and user name and password");
+        System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\chromedriver.exe");
 
 
         driver = new ChromeDriver();
@@ -38,12 +29,14 @@ public class StepDefination {
     }
 
     @When("^Launch the application$")
-    public void launch_the_application()  {
+    public void launch_the_application() {
         System.out.println("Application Launched successfully");
+        //Assert.assertTrue(driver.getTitle().contains("macys"));
 
-        Assert.assertTrue(driver.getTitle().contains("macys"));
+
 
     }
+
 
     @When("^Enter the valid user name and password$")
     public void enter_the_valid_user_name_and_password() throws InterruptedException {
@@ -53,7 +46,6 @@ public class StepDefination {
         driver.findElement(By.xpath(".//input[@id='globalSearchInputField']")).sendKeys("Selenium WebDriver ");
 
     }
-
     @Then("^user is able to log into the application$")
     public void user_is_able_to_log_into_the_application() throws InterruptedException {
         System.out.println("User should login to the application ");
