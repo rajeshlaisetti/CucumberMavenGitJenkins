@@ -13,14 +13,14 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 
-public class StepDefination extends Hooks{
+public class StepDefination {
 
 
     public WebDriver driver;
 
 
     @Before
-    public void initializationingTest(Hooks hk){
+    public void initializationingTest(){
         System.out.println("To initialize the cucumber selenium test....");
 
 

@@ -44,28 +44,28 @@ formatter.match({
   "location": "StepDefination.appplicaiton_url_and_valid_user_name_and_password()"
 });
 formatter.result({
-  "duration": 17728933073,
+  "duration": 113212985263,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.launch_the_application()"
 });
 formatter.result({
-  "duration": 166435,
+  "duration": 48309,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.enter_the_valid_user_name_and_password()"
 });
 formatter.result({
-  "duration": 1489916916,
+  "duration": 1417030979,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.user_is_able_to_log_into_the_application()"
 });
 formatter.result({
-  "duration": 1731952532,
+  "duration": 1738457964,
   "status": "passed"
 });
 });
