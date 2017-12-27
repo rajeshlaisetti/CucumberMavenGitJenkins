@@ -1,5 +1,6 @@
 package com.macys;
 
+import cucumber.api.Scenario;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -15,22 +16,11 @@ import java.util.concurrent.TimeUnit;
 
 public class StepDefination {
 
+   public WebDriver driver;
 
-    public WebDriver driver;
-
-
-    @Before
-    public void initializationingTest(){
-        System.out.println("To initialize the cucumber selenium test....");
-
-
-    }
-
-
-    public StepDefination(){
+    public StepDefination(Hooks hk){
+        this.driver = hk.webdriver;
         System.out.println("intialize driver .....");
-        System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\chromedriver.exe");
-        driver = new ChromeDriver();
     }
 
 
@@ -64,12 +54,6 @@ public class StepDefination {
         driver.quit();
     }
 
-    @After
-    public void teardownTest(){
-        System.out.println("Close all the browser and test...");
-
-
-    }
 
 
 }
