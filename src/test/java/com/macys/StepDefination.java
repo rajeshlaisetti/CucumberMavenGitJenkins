@@ -3,7 +3,9 @@ package com.macys;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import org.junit.After;
 import org.junit.Assert;
+import org.junit.Before;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,10 +13,19 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 
-public class StepDefination {
+public class StepDefination extends Hooks{
 
 
     public WebDriver driver;
+
+
+    @Before
+    public void initializationingTest(Hooks hk){
+        System.out.println("To initialize the cucumber selenium test....");
+
+
+    }
+
 
     public StepDefination(){
         System.out.println("intialize driver .....");
@@ -53,6 +64,12 @@ public class StepDefination {
         driver.quit();
     }
 
+    @After
+    public void teardownTest(){
+        System.out.println("Close all the browser and test...");
+
+
+    }
 
 
 }

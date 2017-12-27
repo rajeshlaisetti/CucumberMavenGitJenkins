@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.macys.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.513 s - in com.macys.TestRunner
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.235 s - in com.macys.TestRunner
