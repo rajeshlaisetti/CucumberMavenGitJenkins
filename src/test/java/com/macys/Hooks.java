@@ -7,6 +7,8 @@ import com.relevantcodes.extentreports.LogStatus;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -28,6 +30,7 @@ public class Hooks  {
     //To generate Extent report
     public static ExtentReports extent;
     public static ExtentTest test;
+    public  Logger logger;
 
     @Before
     public void initializationingTest(Scenario scenario) throws InterruptedException {
@@ -35,6 +38,11 @@ public class Hooks  {
         this.scenario=scenario;
         System.out.println("The Name of the Scenario is : "+scenario.getName());
         System.out.println("The Description of the Scenario is : "+scenario.getStatus());
+
+        logger=Logger.getLogger(scenario.getName());
+
+        // configure log4j properties file
+        PropertyConfigurator.configure("Log4j.properties");
 
 
         // report folder and file creation
@@ -73,6 +81,7 @@ public class Hooks  {
         }else if(browser.equalsIgnoreCase("Chrome")){
             System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\chromedriver.exe");
             webdriver = new ChromeDriver();
+            logger.info("Browser Opened");
             test.log(LogStatus.PASS, "Chrome Brower has been inisilized successfully..");
         }else if(browser.equalsIgnoreCase("Iexplore")){
             System.setProperty("webdriver.ie.driver", "D:\\Tours\\Jars\\IEDriverServer.exe");
@@ -110,6 +119,7 @@ public class Hooks  {
         }
         System.out.println("Successfully Closed all browser instancess ,..");
         webdriver.quit();
+        logger.info("Browser closed ...");
         test.log(LogStatus.PASS,"Browser Closed Successfully ");
         extent.endTest(test);
 

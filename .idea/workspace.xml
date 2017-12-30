@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" line="50" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" line="58" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f0ba186-65c1-4f0a-be42-8ed498b55ca6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_picocontainer_1_2_5.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/macys/CapturScreenshot.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/log4j.properties" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Test Results - TestRunner_(1).html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/com.macys.retail.nisum.iml" afterPath="$PROJECT_DIR$/com.macys.retail.nisum.iml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" afterPath="$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java" afterPath="$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java" afterPath="$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java" />
       <change beforePath="$PROJECT_DIR$/src/test/test.iml" afterPath="$PROJECT_DIR$/src/test/test.iml" />
       <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.macys.TestRunner.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.macys.TestRunner.xml" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.macys.TestRunner.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.macys.TestRunner.txt" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/macys/Hooks.class" afterPath="$PROJECT_DIR$/target/test-classes/com/macys/Hooks.class" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/macys/StepDefination.class" afterPath="$PROJECT_DIR$/target/test-classes/com/macys/StepDefination.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macys/TestRunner.class" afterPath="$PROJECT_DIR$/target/test-classes/com/macys/TestRunner.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,28 +36,38 @@
       <file leaf-file-name="StepDefination.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="235">
+              <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtentReport_122812-30-28.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Extent-Reports/ExtentReport_122812-30-28.html">
+      <file leaf-file-name="testlog1.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/testlog1.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testlog.log" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/log/testlog.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,19 +75,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Databinding.class" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/jre/lib/rt.jar!/com/oracle/webservices/internal/api/databinding/Databinding.class">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="44" column="27" lean-forward="false" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-              <folding>
-                <marker date="1513038390564" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1513038390564" expanded="false" signature="171:427" ph="..." />
-                <marker date="1513038390564" expanded="true" signature="808:1493" ph="{...}" />
-                <marker date="1513038390564" expanded="true" signature="982:1000" ph="/**...*/" />
-                <marker date="1513038390564" expanded="true" signature="1057:1075" ph="/**...*/" />
-                <marker date="1513038390564" expanded="true" signature="1138:1156" ph="/**...*/" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="56" lean-forward="false" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,8 +88,8 @@
       <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="32" column="86" lean-forward="false" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
+            <state relative-caret-position="502">
+              <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,7 +100,7 @@
       <file leaf-file-name="CapturScreenshot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/CapturScreenshot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="228">
               <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -144,8 +132,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1976">
-              <caret line="104" column="4" lean-forward="false" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
+            <state relative-caret-position="160">
+              <caret line="98" column="63" lean-forward="false" selection-start-line="98" selection-start-column="63" selection-end-line="98" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -164,6 +152,7 @@
     <findStrings>
       <find>\|username\|password\|\n  \|rajesh   \|varma \|\n</find>
       <find>Feature\: Login into application by using valid credentials\n\n\@Login\nScenario\: veify whether the user is able to log into application or not\n\nGiven appplicaiton url and valid \&lt;username\&gt; and \&lt;password\&gt;\nWhen Launch the application\nAnd Enter the valid user name and password\nThen user is able to log into the application\n\nExamples \:\n\n  \|username\|password\|\n  \|rajesh   \|varma</find>
+      <find>package com\.macys\;\n\n\nimport com\.relevantcodes\.extentreports\.ExtentReports\;\nimport com\.relevantcodes\.extentreports\.ExtentTest\;\nimport com\.relevantcodes\.extentreports\.LogStatus\;\nimport cucumber\.api\.Scenario\;\nimport cucumber\.api\.java\.After\;\nimport cucumber\.api\.java\.Before\;\nimport org\.apache\.log4j\.Logger\;\nimport org\.openqa\.selenium\.WebDriver\;\nimport org\.openqa\.selenium\.chrome\.ChromeDriver\;\nimport org\.openqa\.selenium\.firefox\.FirefoxDriver\;\nimport org\.openqa\.selenium\.ie\.InternetExplorerDriver\;\n\nimport java\.io\.File\;\nimport java\.io\.IOException\;\nimport java\.net\.InetAddress\;\nimport java\.net\.UnknownHostException\;\nimport java\.text\.SimpleDateFormat\;\nimport java\.util\.Date\;\n\n\npublic class Hooks  \{\n\n    public WebDriver webdriver\=null\;\n    Scenario scenario \;\n    public String browser \= \&quot;Chrome\&quot;\;\n    \/\/To generate Extent report\n    public static ExtentReports extent\;\n    public static ExtentTest test\;\n\n    \@Before\n    public void initializationingTest\(Scenario scenario\) throws InterruptedException \{\n\n        this\.scenario\=scenario\;\n        System\.out\.println\(\&quot;The Name of the Scenario is \: \&quot;\+scenario\.getName\(\)\)\;\n        System\.out\.println\(\&quot;The Description of the Scenario is \: \&quot;\+scenario\.getStatus\(\)\)\;\n\n        Logger logger\=Logger\.getLogger\(scenario\.getName\(\)\)\;\n\n        \/\/ configure log4j properties file\n        PropertyConfigurator\.configure\(\&quot;Log4j\.properties\&quot;\)\;\n\n\n        \/\/ report folder and file creation\n        String currentDate \= new SimpleDateFormat\(\&quot;MM dd HH\:mm\:ss\&quot;\)\.format\(new Date\(\)\)\;\n        String MyOwnReport \= \&quot;ExtentReport_\&quot;\+currentDate\.replaceAll\(\&quot;\\\\s\+\&quot;\,\&quot;\&quot;\)\.replaceAll\(\&quot;\:\&quot;\,\&quot;\-\&quot;\)\.trim\(\)\+\&quot;\.html\&quot;\;\n        File myExtentReportFile \= new File\(MyOwnReport\)\;\n        System\.out\.println\(myExtentReportFile\)\;\n        \/\/Object creation of extent report\n        extent \= new ExtentReports\(System\.getProperty\(\&quot;user\.dir\&quot;\) \+\&quot;\/Extent\-Reports\/\&quot;\+myExtentReportFile\, true\)\;\n\n\n        String OsVersion \= System\.getProperty\(\&quot;os\.version\&quot;\)\;\n        String UserHomeDirectory \= System\.getProperty\(\&quot;user\.home\&quot;\)\;\n\n\n        extent\.addSystemInfo\(\&quot;Os Version \&quot;\, OsVersion\)\;\n        try \{\n            extent\.addSystemInfo\(\&quot;IP Address \&quot;\,  InetAddress\.getLocalHost\(\)\.getHostAddress\(\)\)\;\n        \} catch \(UnknownHostException e\) \{\n            e\.printStackTrace\(\)\;\n        \}\n        extent\.addSystemInfo\(\&quot;User home directory \&quot;\,UserHomeDirectory \)\;\n        extent\.addSystemInfo\(\&quot;Application\&quot;\, \&quot;Macy\'s Marketing Application\&quot;\)\;\n        extent\.addSystemInfo\(\&quot;Tool\&quot;\,\&quot;Selenium WebDriver\&quot;\)\;\n        extent\.addSystemInfo\(\&quot;Executed On Browser \&quot;\,browser\)\;\n\n\n\n\n        System\.out\.println\(\&quot;browser has been inisiated successfully and running\.\.\.\&quot;\)\;\n        test\=extent\.startTest\(\&quot;browser has been inisiated successfully and running\.\.\.\&quot;\)\;\n        if\(browser\.equalsIgnoreCase\(\&quot;firefox\&quot;\)\)\{\n            System\.out\.println\(\&quot;Browser Setup and Lauch\.\.\.\&quot;\)\;\n            webdriver \= new FirefoxDriver\(\)\;\n            test\.log\(LogStatus\.PASS\, \&quot;Firefox Brower has been inisilized successfully\.\.\&quot;\)\;\n        \}else if\(browser\.equalsIgnoreCase\(\&quot;Chrome\&quot;\)\)\{\n            System\.setProperty\(\&quot;webdriver\.chrome\.driver\&quot;\, \&quot;D\:\\\\Cucumber\-Jar\-Files\\\\chromedriver_win32\\\\chromedriver\.exe\&quot;\)\;\n            webdriver \= new ChromeDriver\(\)\;\n            test\.log\(LogStatus\.PASS\, \&quot;Chrome Brower has been inisilized successfully\.\.\&quot;\)\;\n        \}else if\(browser\.equalsIgnoreCase\(\&quot;Iexplore\&quot;\)\)\{\n            System\.setProperty\(\&quot;webdriver\.ie\.driver\&quot;\, \&quot;D\:\\\\Tours\\\\Jars\\\\IEDriverServer\.exe\&quot;\)\;\n            webdriver \= new InternetExplorerDriver\(\)\;\n            test\.log\(LogStatus\.PASS\, \&quot;Iexplorer Brower has been inisilized successfully\.\.\&quot;\)\;\n        \}\n        webdriver\.manage\(\)\.window\(\)\.maximize\(\)\;\n        test\.log\(LogStatus\.INFO\,\&quot;Browser Maximized \&quot;\)\;\n        Thread\.sleep\(1000\)\;\n\n\n\n    \}\n\n    \@After\n    public void teardownTest\(Scenario scenario\) \{\n        if \(scenario\.isFailed\(\)\) \{\n            \/\*try \{\n                byte\[\] screenshot \= \(\(TakesScreenshot\) webdriver\)\.getScreenshotAs\(OutputType\.BYTES\)\;\n                String testName \= scenario\.getName\(\)\;\n                scenario\.embed\(screenshot\, \&quot;image\/png\&quot;\)\;\n                scenario\.write\(testName\)\;\n            \} catch \(WebDriverException wde\) \{\n                System\.err\.println\(wde\.getMessage\(\)\)\;\n            \} catch \(ClassCastException cce\) \{\n                cce\.printStackTrace\(\)\;\n            \}\*\/\n            try \{\n                String screenShotPath \= CaptureScreenshot\.capture\(webdriver\, scenario\.getName\(\)\)\;\n            \} catch \(IOException e\) \{\n                e\.printStackTrace\(\)\;\n            \}\n\n\n        \}\n        System\.out\.println\(\&quot;Successfully Closed all browser instancess \,\.\.\&quot;\)\;\n        webdriver\.quit\(\)\;\n        test\.log\(LogStatus\.PASS\,\&quot;Browser Closed Successfully \&quot;\)\;\n        extent\.endTest\(test\)\;\n\n\n        \/\/Flushing and Closing\n        extent\.flush\(\)\;\n        extent\.close\(\)\;\n\n    \}\n\n\n\}\n</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -179,13 +168,21 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/resources/banner_machine_home_page.feature" />
         <option value="$PROJECT_DIR$/src/test/resources/ApplicationLogin.feature" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Extent-Reports/ExtentReport_122812-30-28.html" />
         <option value="$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/macys/CapturScreenshot.java" />
+        <option value="$PROJECT_DIR$/log4j.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -248,12 +245,12 @@
             <path>
               <item name="commacysretail" type="b2602c69:ProjectViewProjectNode" />
               <item name="commacysretail" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="Extent-Reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="commacysretail" type="b2602c69:ProjectViewProjectNode" />
               <item name="commacysretail" type="462c0819:PsiDirectoryNode" />
-              <item name="ErrorScreenshots" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="commacysretail" type="b2602c69:ProjectViewProjectNode" />
@@ -286,7 +283,9 @@
               <item name="commacysretail" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="macys" type="462c0819:PsiDirectoryNode" />
+              <item name="CapturScreenshot.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -512,21 +511,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15306123" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16987543" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17615467" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16987543" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13363533" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16987543" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2831257" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19226637" sideWeight="0.49603623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19226637" sideWeight="0.49603623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -539,54 +538,18 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1577">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/CapturScreenshot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test Results - TestRunner_(1).html" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/ApplicationLogin.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -826,6 +789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="140" column="6" lean-forward="false" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -870,19 +834,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java">
+    <entry file="file://$PROJECT_DIR$/ErrorScreenshots/veify whether the user is able to log into application or not_123022-39-24.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Extent-Reports/ExtentReport_123022-38-43.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="86" lean-forward="false" selection-start-line="32" selection-start-column="86" selection-end-line="32" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="56" lean-forward="false" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/CapturScreenshot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="228">
           <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -906,29 +881,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1976">
-          <caret line="104" column="4" lean-forward="false" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
+        <state relative-caret-position="160">
+          <caret line="98" column="63" lean-forward="false" selection-start-line="98" selection-start-column="63" selection-end-line="98" selection-end-column="63" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="32" column="11" lean-forward="false" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="235">
+          <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/TestRunner.java">
+    <entry file="file://$PROJECT_DIR$/log/testlog1.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/testlog.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,6 +1035,8 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="install" />
+    <option value="clean" />
     <option value="clean install" />
   </component>
 </project>
