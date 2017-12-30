@@ -1,8 +1,11 @@
 package com.macys;
 
 import cucumber.api.CucumberOptions;
+import cucumber.api.SnippetType;
 import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
+
+
 
 
 @RunWith(Cucumber.class)
@@ -13,7 +16,10 @@ import org.junit.runner.RunWith;
         tags={"@Login"},
         plugin = {"pretty", "html:target/cucumber-html-report"},
         dryRun = false,
-        monochrome = true
+        monochrome = true,
+        strict = true,
+        snippets = SnippetType.CAMELCASE
+
 )
 
 
