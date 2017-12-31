@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.macys.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 2, Skipped: 1, Time elapsed: 28.404 s <<< FAILURE! - in com.macys.TestRunner
-And Enter the valid user name and password(Scenario: veify whether the user is able to log into application or not)  Time elapsed: 0.012 s  <<< ERROR!
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 1, Time elapsed: 74.42 s <<< FAILURE! - in com.macys.TestRunner
+And Enter the valid user name and password(Scenario: veify whether the user is able to log into application or not)  Time elapsed: 0.017 s  <<< ERROR!
 org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='tinyconten']//a[@id="closeButton"]"}
   (Session info: chrome=63.0.3239.108)
@@ -13,10 +13,10 @@ Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54
 System info: host: 'DESKTOP-IASOHB8', ip: '172.20.10.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\Nisum\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.108, webStorageEnabled: true}
-Session ID: a7a3030ee4a53faf1c47de8e7b07072d
+Session ID: 59e6286db5488595be2c5d63d6d97698
 *** Element info: {Using=xpath, value=.//div[@id='tinyconten']//a[@id="closeButton"]}
 
-Scenario: veify whether the user is able to log into application or not  Time elapsed: 0.024 s  <<< ERROR!
+Scenario: veify whether the user is able to log into application or not  Time elapsed: 0.019 s  <<< ERROR!
 org.openqa.selenium.NoSuchElementException: 
 no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='tinyconten']//a[@id="closeButton"]"}
   (Session info: chrome=63.0.3239.108)
@@ -27,6 +27,6 @@ Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54
 System info: host: 'DESKTOP-IASOHB8', ip: '172.20.10.10', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.34.522940 (1a76f96f66e3ca..., userDataDir: C:\Users\Nisum\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.108, webStorageEnabled: true}
-Session ID: a7a3030ee4a53faf1c47de8e7b07072d
+Session ID: 59e6286db5488595be2c5d63d6d97698
 *** Element info: {Using=xpath, value=.//div[@id='tinyconten']//a[@id="closeButton"]}
 
