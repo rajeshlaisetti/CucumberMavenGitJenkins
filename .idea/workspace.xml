@@ -7,21 +7,16 @@
     <list default="true" id="2f0ba186-65c1-4f0a-be42-8ed498b55ca6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/log/application.html" afterPath="$PROJECT_DIR$/log/application.html" />
-      <change beforePath="$PROJECT_DIR$/log/testlog.log" afterPath="$PROJECT_DIR$/log/testlog.log" />
-      <change beforePath="$PROJECT_DIR$/log/testlog1.log" afterPath="$PROJECT_DIR$/log/testlog1.log" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" afterPath="$PROJECT_DIR$/src/test/java/com/macys/Hooks.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java" afterPath="$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/formatter.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/formatter.js" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/index.html" afterPath="$PROJECT_DIR$/target/cucumber-html-report/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/jquery-1.8.2.min.js" />
+      <change beforePath="$PROJECT_DIR$/target/com.macys.retail.nisum-1.0-SNAPSHOT.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/formatter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/jquery-1.8.2.min.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/report.js" afterPath="$PROJECT_DIR$/target/cucumber-html-report/report.js" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/style.css" afterPath="$PROJECT_DIR$/target/cucumber-html-report/style.css" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.macys.TestRunner.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.macys.TestRunner.xml" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.macys.TestRunner.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.macys.TestRunner.txt" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macys/Hooks.class" afterPath="$PROJECT_DIR$/target/test-classes/com/macys/Hooks.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/macys/StepDefination.class" afterPath="$PROJECT_DIR$/target/test-classes/com/macys/StepDefination.class" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2018-01-08T14-09-43_564-jvmRun1.dump" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.macys.TestRunner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.macys.TestRunner.txt" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="539">
-              <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+              <caret line="73" column="9" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,8 +69,8 @@
       <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+            <state relative-caret-position="387">
+              <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/ApplicationLogin.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -866,7 +861,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/ApplicationLogin.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -884,7 +879,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/StepDefination.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
-          <caret line="73" column="9" lean-forward="true" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+          <caret line="73" column="9" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -893,8 +888,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/macys/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        <state relative-caret-position="387">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
