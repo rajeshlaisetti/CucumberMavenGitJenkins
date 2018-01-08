@@ -79,7 +79,7 @@ public class Hooks  {
             webdriver = new FirefoxDriver();
             test.log(LogStatus.PASS, "Firefox Brower has been inisilized successfully..");
         }else if(browser.equalsIgnoreCase("Chrome")){
-            System.setProperty("webdriver.chrome.driver", "D:\\Cucumber-Jar-Files\\chromedriver_win32\\chromedriver.exe");
+            System.setProperty("webdriver.chrome.driver", "D:\\Browser Drivers\\chromedriver_win32\\chromedriver.exe");
             webdriver = new ChromeDriver();
             logger.info("Browser Opened");
             test.log(LogStatus.PASS, "Chrome Brower has been inisilized successfully..");
